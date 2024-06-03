@@ -6,3 +6,9 @@ let cal = new calculadora();
 
 cal.suma(5,5)
 console.log("suma:", cal.suma(5,5))
+
+console.log("resta:", cal.resta(2,1))
+
+console.log("multiplicacion:", cal.multiplicacion(2,5))
+
+console.log("division:", cal.division(6,2))
